@@ -20,11 +20,11 @@ const loop = setInterval(() => {
         mario.src = 'images/game-over.png';
         mario.style.width = '75px';
         mario.style.marginLeft = '50px'
-      
+
         gameOver.currentTime = 0.1;
         gameOver.volume = 0.2;
         gameOver.play();
-     
+
         document.getElementById("text-start").style.color = "black";
         document.getElementById("text-start").innerHTML = "<strong>GAME OVER</strong>";
         clearInterval(loop);
@@ -39,7 +39,7 @@ const rotinapular = () => {
     setTimeout(() => {
         mario.classList.remove('jump');
     }, 500);
-} 
+}
 document.addEventListener('keydown', rotinapular);
 
 
