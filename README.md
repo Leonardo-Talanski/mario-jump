@@ -10,6 +10,8 @@ Projeto desenvolvido para fins próprios para desenvolvimento de Habilidades usa
 
 Para Jogar acesse : 
 
+https://leonardo-talanski.github.io/mario-jump/
+
 Instruções : Aperte qualquer tecla para iniciar o jogo, o objetivo é pular sobre os canos e se encostar o jogo será reiniciado.
 
 Status do Projeto :
