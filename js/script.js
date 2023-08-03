@@ -15,7 +15,10 @@ const loop = setInterval(() => {
     console.log('loop')
 
 const pipePosition = pipe.offsetLeft;
-const marioPosition = +window.getComputedStyle(mario).bottom.replace('px', '');
+const marioPosition = +window.getComputedStyle(mario).bottom.replace("px", "");
+
+console.log(pipePosition);
+console.log(marioPosition);
 
 if (pipePosition <= 120 && pipePosition > 0 && marioPosition < 80) {
 
@@ -26,13 +29,13 @@ if (pipePosition <= 120 && pipePosition > 0 && marioPosition < 80) {
     mario.style.bottom = `${marioPosition}px`;
 
     mario.src = './images/game-over.png';
-    mario.style.width = '75px'
-    mario.style.marginLeft = '50px'
+    mario.style.width = "75px";
+    mario.style.marginLeft = "50px";
 
     clearInterval(loop);
 }
 
-}, 10);
+}, 5);
 
 
 document.addEventListener('keydown', jump);
