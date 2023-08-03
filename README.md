@@ -10,7 +10,7 @@ Projeto desenvolvido para fins próprios para desenvolvimento de Habilidades usa
 
 Para Jogar acesse : 
 
-Instruções : Aperte qualque tecla para iniciar o jogo, o objetivo é pular sobre os canos, se encostar o jogo será reiniciado.
+Instruções : Aperte qualquer tecla para iniciar o jogo, o objetivo é pular sobre os canos e se encostar o jogo será reiniciado.
 
 Status do Projeto :
 
