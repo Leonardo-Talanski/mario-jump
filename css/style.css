@@ -2,12 +2,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    user-select: none;
+}
+
+p {
+    font-family: 'Press Start 2P', monospace;
+    padding-top: 1.5%;
+    text-align: center;
+    color: black;
 }
 
 .game-board {
     width: 100%;
-    height: 500px;
-    border-bottom: 1px solid rgb(35, 160, 35);
+    height: 90vh;
+    border-bottom: 30px solid rgb(35, 160, 35);
     margin: 0 auto;
     position: relative;
     overflow: hidden;
@@ -33,7 +41,7 @@
 
 .clouds { 
     position: absolute;
-    width: 370px;
+    width: 550px;
     animation: clouds-animation 20s infinite linear;
 }
 
@@ -41,30 +49,24 @@
     from {
         right: -80px;
     }
-
     to {
         right: 100%;
     }
 }
 
 @keyframes jump {
-  
     0% {
         bottom: 0;
     }
-
     40% {
         bottom: 180px;
     }
-
     50% {
         bottom: 180px;
     }
-
     60% {
         bottom: 180px;
     }
-
     100% {
         bottom: 0;
     }
@@ -72,7 +74,7 @@
 
 @keyframes clouds-animation {
     from {
-        rigth: -370px;
+        rigth: -550px;
     }
 
     to {
