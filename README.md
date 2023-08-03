@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://static.wikia.nocookie.net/p__/images/c/cb/Mario_Artwork.png/revision/latest?cb=20160425012634&path-prefix=protagonist" width="400" alt="Mario Character">
+<img src="https://static.wikia.nocookie.net/p__/images/c/cb/Mario_Artwork.png/revision/latest?cb=20160425012634&path-prefix=protagonist" width="350" alt="Mario Character">
 </p>
 
 <h1 align="center"> Projeto Jogo Mario</h1>
@@ -12,7 +12,7 @@ Para Jogar acesse :
 
 Instruções : Aperte qualque tecla para iniciar o jogo, o objetivo é pular sobre os canos, se encostar o jogo será reiniciado.
 
-Status do Projeto : ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
+Status do Projeto :  ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
 # Tecnologias Aplicadas
 
