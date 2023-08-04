@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://static.wikia.nocookie.net/p__/images/c/cb/Mario_Artwork.png/revision/latest?cb=20160425012634&path-prefix=protagonist" width="350" alt="Mario Character">
+<img src="https://static.wikia.nocookie.net/p__/images/c/cb/Mario_Artwork.png/revision/latest?cb=20160425012634&path-prefix=protagonist" width="300" alt="Mario Character">
 </p>
 
 <h1 align="center"> Projeto Jogo Mario</h1>
