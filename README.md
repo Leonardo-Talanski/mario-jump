@@ -2,6 +2,8 @@
 <img src="https://static.wikia.nocookie.net/p__/images/c/cb/Mario_Artwork.png/revision/latest?cb=20160425012634&path-prefix=protagonist" width="250" alt="Mario Character">
 </p>
 
+
+
 <h1 align="center"> Projeto Jogo Mario</h1>
 
 # Descrição
@@ -21,6 +23,6 @@ Status do Projeto :
 # Tecnologias Aplicadas
 
 <div style="display: inline_block"><br>
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>  
+  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
