@@ -2,13 +2,11 @@
 <img src="https://static.wikia.nocookie.net/p__/images/c/cb/Mario_Artwork.png/revision/latest?cb=20160425012634&path-prefix=protagonist" width="250" alt="Mario Character">
 </p>
 
-
-
 <h1 align="center"> Projeto Jogo Mario</h1>
 
 # Descrição
 
-Projeto desenvolvido para fins próprios para desenvolvimento de Habilidades usando HTML, CSS e JAVA SCRIPT.
+Projeto desenvolvido para fins educacionais usando: HTML, CSS e JAVASCRIPT.
 
 Para Jogar acesse : 
 
