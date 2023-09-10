@@ -8,13 +8,13 @@
 
 Projeto desenvolvido para fins educacionais usando: HTML, CSS e JAVASCRIPT.
 
-Para Jogar acesse : 
+Para Jogar acesse 
 
 https://leonardo-talanski.github.io/mario-jump/
 
 Instruções : Aperte qualquer tecla para iniciar o jogo, o objetivo é pular sobre os canos e se encostar o jogo será reiniciado.
 
-Status do Projeto :
+# Status do Projeto 
 
 ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
